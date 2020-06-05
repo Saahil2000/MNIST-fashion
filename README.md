@@ -1,4 +1,4 @@
 # MNIST-fashion
-Neural network which determines which piece of clothing the image.
+Neural network which determines which class of clothing the image belongs to.
 
-This uses the MNIST fashion dataset, imported as a csv file
+The dataset used was the MNIST fashion dataset, imported as a csv file
